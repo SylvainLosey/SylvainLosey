@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Sylvain 👋
+
+🌱  Bootstraping a recycling business - Oust! 
+💸. Currently at 16k MRR 
+👨‍💻. Student @ École 42
 
 <!--
 **SylvainLosey/SylvainLosey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
