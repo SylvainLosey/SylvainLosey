@@ -1,7 +1,6 @@
 ### Hi I'm Sylvain 👋
 
-- 🌱  Bootstraping a recycling business - Oust!
-- 💸  Currently at 19k MRR
+🌱  Bootstraping a recycling business - Oust!
 
 <!--
 **SylvainLosey/SylvainLosey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
