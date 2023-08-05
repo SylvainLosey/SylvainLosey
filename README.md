@@ -1,6 +1,12 @@
-### Hi I'm Sylvain 👋
+### Sylvain Losey
 
-🌱  Bootstraping a recycling business - Oust!
+- Mobile Software Engineer at [Alpian](https://alpian.com)
+- Designer and builder of [Oust!](https://oust.ch)
+
+#### What I love
+🛠️ Coding
+🎨 Design
+💡 Economics
 
 <!--
 **SylvainLosey/SylvainLosey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
